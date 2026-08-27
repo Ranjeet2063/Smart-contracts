@@ -10,8 +10,6 @@ deploy-artifacts/
 .stellar
 
 
-.env
-.env.*
 *.log
 
 vscode/
@@ -25,3 +23,5 @@ test_snapshots/
 .atl/
 .engram/
 openspec/
+config.bat
+node_modules
